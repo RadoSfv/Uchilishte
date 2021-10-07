@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Advanced\obj\Debug\net5.0\List Manipulation Advanced.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Advanced\obj\Debug\net5.0\List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Advanced\obj\Debug\net5.0\List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Advanced\obj\Debug\net5.0\List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Advanced\obj\Debug\net5.0\List Manipulation Advanced.csproj.CoreCompileInputs.cache

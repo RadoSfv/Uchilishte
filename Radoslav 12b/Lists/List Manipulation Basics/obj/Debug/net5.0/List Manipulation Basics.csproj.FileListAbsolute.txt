@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\bin\Debug\net5.0\List Manipulation Basics.exe
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\bin\Debug\net5.0\List Manipulation Basics.deps.json
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\bin\Debug\net5.0\List Manipulation Basics.runtimeconfig.json
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\bin\Debug\net5.0\List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\bin\Debug\net5.0\List Manipulation Basics.dll
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\bin\Debug\net5.0\ref\List Manipulation Basics.dll
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\bin\Debug\net5.0\List Manipulation Basics.pdb
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\obj\Debug\net5.0\List Manipulation Basics.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\obj\Debug\net5.0\List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\obj\Debug\net5.0\List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\obj\Debug\net5.0\List Manipulation Basics.AssemblyInfo.cs
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\obj\Debug\net5.0\List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\obj\Debug\net5.0\List Manipulation Basics.dll
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\obj\Debug\net5.0\ref\List Manipulation Basics.dll
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\obj\Debug\net5.0\List Manipulation Basics.pdb
+C:\Users\Student\Documents\Radoslav 12b\Lists\List Manipulation Basics\obj\Debug\net5.0\List Manipulation Basics.genruntimeconfig.cache

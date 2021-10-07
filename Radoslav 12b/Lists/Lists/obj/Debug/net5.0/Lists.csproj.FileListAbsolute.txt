@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\bin\Debug\net5.0\Lists.exe
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\bin\Debug\net5.0\Lists.deps.json
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\bin\Debug\net5.0\Lists.runtimeconfig.json
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\bin\Debug\net5.0\Lists.runtimeconfig.dev.json
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\bin\Debug\net5.0\Lists.dll
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\bin\Debug\net5.0\ref\Lists.dll
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\bin\Debug\net5.0\Lists.pdb
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\obj\Debug\net5.0\Lists.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\obj\Debug\net5.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\obj\Debug\net5.0\Lists.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\obj\Debug\net5.0\Lists.AssemblyInfo.cs
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\obj\Debug\net5.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\obj\Debug\net5.0\Lists.dll
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\obj\Debug\net5.0\ref\Lists.dll
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\obj\Debug\net5.0\Lists.pdb
+C:\Users\Student\Documents\Radoslav 12b\Lists\Lists\obj\Debug\net5.0\Lists.genruntimeconfig.cache
