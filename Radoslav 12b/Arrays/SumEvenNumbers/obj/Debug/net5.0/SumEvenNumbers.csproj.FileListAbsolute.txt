@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.AssemblyInfo.cs
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.exe
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.deps.json
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.runtimeconfig.json
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.dll
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\bin\Debug\net5.0\ref\SumEvenNumbers.dll
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.pdb
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.dll
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\obj\Debug\net5.0\ref\SumEvenNumbers.dll
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.pdb
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\bin\Debug\net5.0\Print numbers in reverse order.exe
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\bin\Debug\net5.0\Print numbers in reverse order.deps.json
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\bin\Debug\net5.0\Print numbers in reverse order.runtimeconfig.json
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\bin\Debug\net5.0\Print numbers in reverse order.runtimeconfig.dev.json
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\bin\Debug\net5.0\Print numbers in reverse order.dll
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\bin\Debug\net5.0\ref\Print numbers in reverse order.dll
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\bin\Debug\net5.0\Print numbers in reverse order.pdb
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\obj\Debug\net5.0\Print numbers in reverse order.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\obj\Debug\net5.0\Print numbers in reverse order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\obj\Debug\net5.0\Print numbers in reverse order.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\obj\Debug\net5.0\Print numbers in reverse order.AssemblyInfo.cs
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\obj\Debug\net5.0\Print numbers in reverse order.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\obj\Debug\net5.0\Print numbers in reverse order.dll
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\obj\Debug\net5.0\ref\Print numbers in reverse order.dll
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\obj\Debug\net5.0\Print numbers in reverse order.pdb
+C:\Users\Student\Documents\Uchilishte\Radoslav 12b\Arrays\Print numbers in reverse order\obj\Debug\net5.0\Print numbers in reverse order.genruntimeconfig.cache
